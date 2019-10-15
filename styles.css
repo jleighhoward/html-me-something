@@ -1,5 +1,11 @@
 p {
-    color: blueviolet
+    color: lavender
 }
 
+.intro {
+    background-color : greenyellow;
+}
 
+#thisOne {
+    background-color: black;
+}
